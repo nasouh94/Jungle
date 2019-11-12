@@ -1,6 +1,10 @@
 <section class="cart-show">
 
   <header class="page-header">
+  <% if enhanced_cart.length == 0 %>
+  <h1> Your Cart Is Empty </h1>
+  <a class="alert alert-danger" role="alert" href = "/">Go back to home page</a>
+<% else %>
     <h1>My Cart</h1>
   </header>
 
@@ -46,6 +50,7 @@
           data-currency="cad">
         </script>
       <% end %>
+    <% end %>
     </div>
   </div>
 
