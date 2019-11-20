@@ -25,13 +25,15 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 * RSpec
 
 ## ScreenShots
-!["landing-page"](https://github.com/nasouh94/scheduler/blob/master/docs/landing-page.png)
-!["form-to-book-appointment"](https://github.com/nasouh94/scheduler/blob/master/docs/form-to-book-appointment.png)
-!["saving-screen"](https://github.com/nasouh94/scheduler/blob/master/docs/saving-screen.png)
-!["Appointment-booked"](https://github.com/nasouh94/scheduler/blob/master/docs/Appointment-booked.png)
-!["Confirm-detete-message"](https://github.com/nasouh94/scheduler/blob/master/docs/Confirm-detete-message.png)
-!["Deleting-screen"](https://github.com/nasouh94/scheduler/blob/master/docs/Deleting-screen.png)
-!["Error-message"](https://github.com/nasouh94/scheduler/blob/master/docs/Error-message.png)
+!["Homepage"](https://github.com/nasouh94/Jungle/blob/master/docs/Homepage.png)
+!["User category list"](https://github.com/nasouh94/Jungle/blob/master/docs/User%20category%20list.png)
+!["Admin dashboard"](https://github.com/nasouh94/Jungle/blob/master/docs/admin%20dashboard.png)
+!["Admin categories"](https://github.com/nasouh94/Jungle/blob/master/docs/admin%20categtories.png)
+!["Admin new category"](https://github.com/nasouh94/Jungle/blob/master/docs/Admin%20new%20category.png)
+!["Admin products "](https://github.com/nasouh94/Jungle/blob/master/docs/Admin%20Products%20page.png)
+!["Admin new product page"](https://github.com/nasouh94/Jungle/blob/master/docs/Admin%20new%20product%20page.png)
+!["Error handling"](https://github.com/nasouh94/Jungle/blob/master/docs/Error%20handling%20for%20creating%20produtcs.png)
+
 
 ## Getting started
 1. Run bundle install to install dependencies
