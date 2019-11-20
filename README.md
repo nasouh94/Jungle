@@ -33,6 +33,8 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 !["Admin products "](https://github.com/nasouh94/Jungle/blob/master/docs/Admin%20Products%20page.png)
 !["Admin new product page"](https://github.com/nasouh94/Jungle/blob/master/docs/Admin%20new%20product%20page.png)
 !["Error handling"](https://github.com/nasouh94/Jungle/blob/master/docs/Error%20handling%20for%20creating%20produtcs.png)
+!["Empty cart"](https://github.com/nasouh94/Jungle/blob/master/docs/empty%20cart.png)
+!["Full cart"](https://github.com/nasouh94/Jungle/blob/master/docs/full%20cart.png)
 
 
 ## Getting started
